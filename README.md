@@ -1,4 +1,4 @@
-# BunnyBloom Backend 🐰
+# BunnyBloom 🐰
 
 This repository contains the backend logic for BunnyBloom Farm.
 
